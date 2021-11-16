@@ -1,2 +1,2 @@
-# lmn
-lmn is a JavaScript library for building user interfaces.
+# lmnjs
+lmnjs is a JavaScript library for building user interfaces.
