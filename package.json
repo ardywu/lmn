@@ -1,0 +1,24 @@
+{
+  "name": "lmnjs",
+  "version": "1.0.0",
+  "description": "lmnjs is a JavaScript library for building user interfaces",
+  "author": "Ardy Wu <ardywu@yahoo.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardywu/lmnjs.git"
+  },
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardywu/lmnjs/issues"
+  },
+  "homepage": "https://github.com/ardywu/lmnjs#readme",
+  "keywords": [
+    "router",
+    "state"
+  ]
+}
